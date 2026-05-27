@@ -1,6 +1,6 @@
 [project]
 name = "quex"
-version = "0.3.3"
+version = "0.3.4"
 description = "Simulator Backend for Quantum Computing"
 readme = "README.md"
 authors = [
