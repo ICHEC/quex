@@ -2184,7 +2184,7 @@ wheels = [
 
 [[package]]
 name = "quex"
-version = "0.2.0"
+version = "0.3.2"
 source = { editable = "." }
 dependencies = [
     { name = "openqasm3", extra = ["parser"] },
