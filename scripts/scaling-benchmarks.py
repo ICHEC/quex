@@ -36,7 +36,7 @@ def main():
 
     # 2. Auto-generate a clean filename (Now includes the backend name!)
     if not args.out:
-        args.out = f"time-vs-{args.scan}-{args.backend}-fixed_{args.fixed}.dat"
+        args.out = f"time-vs-{args.scan}-{args.backend}-fixed-{args.fixed}.dat"
 
     print(f"--- Quex Benchmarking ---")
     print(f"Backend: {args.backend.upper()}")
