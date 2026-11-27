@@ -14,6 +14,7 @@
 - Auto-update cumulative changelog
 - Auto-update cumulative changelog
 - Auto-update cumulative changelog
+- Auto-update cumulative changelog
 
 ### ⚙️ Miscellaneous Tasks
 
@@ -22,3 +23,4 @@
 - Organize imports
 - Auto-bump version to 0.3.3 [skip ci]
 - Auto-bump version to 0.3.4 [skip ci]
+- Auto-bump version to 0.3.5 [skip ci]
